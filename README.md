@@ -1,23 +1,27 @@
 # ffvdd
 Team members dhanvi,guruprasad,estarth,hemant,dhanush
 
-Pseudo Random Binary Sequence Generation using LFSR
+FSM design
+![image](https://github.com/dhanvi6/ffvdd/assets/91777244/a1516138-daac-42eb-b632-2fc0c6369179)
+design file
+![image](https://github.com/dhanvi6/ffvdd/assets/91777244/d1ab27ba-01b6-4bd5-ba27-4173d047cc9e)
 
+coverage 
+![0](https://github.com/dhanvi6/ffvdd/assets/91777244/a940a401-3748-4c45-8034-f1940c292d85)
 
-![PRBS](https://github.com/dhanvi6/ffvdd/assets/91777244/7a5f4bf1-a0fa-4ef3-a7aa-8f5d90af3817)
+layered Testbench
+![0](https://github.com/dhanvi6/ffvdd/assets/91777244/8f32db73-f1f2-4f94-9ed4-1d4be6bf47d7)
+![0](https://github.com/dhanvi6/ffvdd/assets/91777244/3527b6be-13f1-4b96-8a43-da707126003b)
+![0](https://github.com/dhanvi6/ffvdd/assets/91777244/11b3554c-21f1-46cd-9647-1f67d6619ffb)
+![0](https://github.com/dhanvi6/ffvdd/assets/91777244/aebab138-a426-408b-8698-f5f79252a2e8)
+![0](https://github.com/dhanvi6/ffvdd/assets/91777244/75263855-3ebc-4983-a62d-3358ea6b39fb)
+![0](https://github.com/dhanvi6/ffvdd/assets/91777244/dd4201ad-2dd0-4f55-a558-764be619e82f)
+![0](https://github.com/dhanvi6/ffvdd/assets/91777244/58910755-157d-41a0-a105-ed6069687ff2)
+![0](https://github.com/dhanvi6/ffvdd/assets/91777244/be25f0b6-56d4-41db-81c2-3cd3cb72c54d)
+![0](https://github.com/dhanvi6/ffvdd/assets/91777244/5d72a17d-9f50-43ca-b991-4f5ea44a4abb)
 
-code
-![0](https://github.com/dhanvi6/ffvdd/assets/91777244/bb842ff3-d89a-4a82-970b-5c5c512fff0b)
-![0](https://github.com/dhanvi6/ffvdd/assets/91777244/b428ec82-f392-4349-bbed-d0c8385a9494)
-![0](https://github.com/dhanvi6/ffvdd/assets/91777244/390784ce-1fe4-4114-ad72-5ffa9612e4bf)
-![0](https://github.com/dhanvi6/ffvdd/assets/91777244/a65452e4-66b3-417f-b716-0db8ebb5fbbd)
+simulation results of layered testbench
+![0](https://github.com/dhanvi6/ffvdd/assets/91777244/319b04e8-4347-467b-be2a-da52ce879e7a)
 
-Testbench
-![0](https://github.com/dhanvi6/ffvdd/assets/91777244/7fe72405-0d0a-4bc7-833b-9a232d8d659f)
-
-
-simulation results
-![0](https://github.com/dhanvi6/ffvdd/assets/91777244/dc574f67-8c35-4fc9-b6b3-05c3d05e5f7d)
-
-coverage report
-![0](https://github.com/dhanvi6/ffvdd/assets/91777244/e1ab4fd9-259b-43c7-abe2-1f065cf6abac)
+coverage of the layered testbench
+![0](https://github.com/dhanvi6/ffvdd/assets/91777244/9b019614-6ef3-4343-8719-2759cbe21731)
