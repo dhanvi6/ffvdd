@@ -3,11 +3,11 @@ Team members dhanvi,guruprasad,estarth,hemant,dhanush
 
 FSM design
 ![image](https://github.com/dhanvi6/ffvdd/assets/91777244/a1516138-daac-42eb-b632-2fc0c6369179)
+
 design file
 ![image](https://github.com/dhanvi6/ffvdd/assets/91777244/d1ab27ba-01b6-4bd5-ba27-4173d047cc9e)
 
-coverage 
-![0](https://github.com/dhanvi6/ffvdd/assets/91777244/a940a401-3748-4c45-8034-f1940c292d85)
+
 
 layered Testbench
 ![0](https://github.com/dhanvi6/ffvdd/assets/91777244/8f32db73-f1f2-4f94-9ed4-1d4be6bf47d7)
